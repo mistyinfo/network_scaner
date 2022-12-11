@@ -1,5 +1,3 @@
-# import os
-# os.sys.path.append('/Library/Frameworks/Python.framework/Versions/3.10/bin/scapy')
 from scapy.all import *
 import scapy.all as scapy
 import argparse
